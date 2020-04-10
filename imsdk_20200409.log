@@ -1,0 +1,327 @@
+TIM: ==========================================================================
+TIM: ======  TIM
+TIM: ======  Ver: 4.5.111
+TIM: ======  Compile: Oct 16 2019 20:37:06
+TIM: ======  Platform: Android
+TIM: ======  PID: 3883
+TIM: ==========================================================================
+TIM: 2020-04-09 19:58:57.251/D/3883-4059     /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_log
+TIM: 2020-04-09 19:58:57.251/I/3883-3883     /IMSDK     -BaseManager.0                                              /BuglySdkInfos sdkappid:ebfa608d4d ver:4.5.111
+TIM: 2020-04-09 19:58:57.254/I/3883-3883     /IMSDK     -BaseManager.0                                              /logPath: /storage/emulated/0/justfortest/
+TIM: 2020-04-09 19:58:57.257/I/3883-3883     /IMSDK     -BaseManager.0                                              /logPath: /storage/emulated/0/justfortest/
+TIM: 2020-04-09 19:58:57.257/I/3883-3883     /IMSDK     -BaseManager.0                                              /init: sdkAppid=1400271387;appid=0;logPath=/storage/emulated/0/justfortest/;callbackLevel=4;logLevel=3;logPrintEnabled=true
+TIM: 2020-04-09 19:58:57.279/I/3883-3883     /IMSDK     -SessionWrapper.0                                           /bind service=============1586437137279
+TIM: 2020-04-09 19:58:57.316/I/3883-4065     /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 19:58:57.324/I/3883-3883     /Common    -manager_jni.cpp.310  Java_com_tencent_imsdk_manager_NativeManager_nativeInitSdk/InitSDK, sdkappid 1400271387, logPath /storage/emulated/0/justfortest/, configPath /data/user/0/com.trassion.infinix.xclub/files, deviceId a41b5284-1305-4bc0-83ca-858430c681f9, sdkInsttype_ 2002
+TIM: ==========================================================================
+TIM: ======  TIM
+TIM: ======  Ver: 4.5.111
+TIM: ======  Compile: Oct 16 2019 20:37:06
+TIM: ======  Platform: Android
+TIM: ======  PID: 3883
+TIM: ==========================================================================
+TIM: 2020-04-09 19:58:57.386/D/3883-4067     /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_logic
+TIM: 2020-04-09 19:58:57.401/I/3883-3883     /Network   -imsession_sso_session.cpp.410  Init                        /session init, sdkAppId: 1400271387, system version: 9, app version: 4.5.111
+TIM: 2020-04-09 19:58:57.401/I/3883-3883     /Common    -imcore_manager.cpp.147  InitSdk                            /InitSdk, device type: Infinix X5515F, system version: 9, app version = 4.5.111
+TIM: 2020-04-09 19:58:57.403/I/3883-4067     /Network   -imsession_session_config.cpp.486  operator()               /read config file /data/user/0/com.trassion.infinix.xclub/files/imsdk_config
+TIM: 2020-04-09 19:58:57.403/W/3883-4067     /Network   -imsession_session_config.cpp.488  operator()               /cannot create config read stream
+TIM: 2020-04-09 19:58:57.406/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.406/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.406/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.407/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.411/I/3883-4067     /Network   -imsession_sso_session.cpp.934  MakesureConnect             /wait_connect_task_id_:0|interval: 0|netId:1:"TECH_CBA0"
+TIM: 2020-04-09 19:58:57.408/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.414/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.415/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.416/D/3883-4068     /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_db
+TIM: 2020-04-09 19:58:57.418/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.423/I/3883-4067     /Network   -imsession_monitor.cpp.136  OnConnecting                    /previous record|content:date_time=1586360482&sdk_app_id=1400271387&conn_succ=1&conn_time=190&conn_last=18308&sdk_client_ip=&sso_ip=119.28.109.19&sso_port=8080&conn_reason=4&send_count=0&send_succ_count=0&send_high_count=0&send_high_succ_count=0&avg_rtt=0&net_type=wifi&state=1&timestamp=2020-04-08T22:41:22.186+0800&sso_ip_src=4&sso_ip_list=119.28.109.19:8080&failed_ip_list=&error_code=0&reg_error_code=0&error_msg=
+TIM: 2020-04-09 19:58:57.423/I/3883-4067     /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:0
+TIM: 2020-04-09 19:58:57.424/I/3883-4067     /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:2 code:0 errMsg:
+TIM: 2020-04-09 19:58:57.424/I/3883-4067     /IMSDK     -BaseManager.0                                              /onConnecting
+TIM: 2020-04-09 19:58:57.424/I/3883-4067     /Network   -imsession_sso_session.cpp.1502  DisableCheckNetwork        /check network stop
+TIM: 2020-04-09 19:58:57.424/I/3883-4067     /Network   -imsession_session_config.cpp.123  GetSsoList               /netId:1:"TECH_CBA0"
+TIM: 2020-04-09 19:58:57.426/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.426/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.434/I/3883-3883     /IMSDK     -BaseManager.0                                              /loadFriendshipModule init statt
+TIM: 2020-04-09 19:58:57.436/I/3883-3883     /FriendShip-friendship_listener_jni.cpp.185  InitIDs                   /---- Start FriendshipListenerJni InitIDs
+TIM: 2020-04-09 19:58:57.438/I/3883-3883     /FriendShip-friendship_listener_jni.cpp.212  InitIDs                   /---- End FriendshipListenerJni InitIDs
+TIM: 2020-04-09 19:58:57.438/I/3883-3883     /FriendShip-friendship_jni.cpp.22  Java_com_tencent_imsdk_friendship_FriendshipNativeManager_nativeInitFriendshipModule/start init native Friendship Module
+TIM: 2020-04-09 19:58:57.438/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.440/I/3883-3883     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 19:58:57.442/I/3883-3883     /FriendShip-friendship_jni.cpp.34  Java_com_tencent_imsdk_friendship_FriendshipNativeManager_nativeInitFriendshipModule/end init native Friendship Module
+TIM: 2020-04-09 19:58:57.452/I/3883-3883     /IMSDK     -imsdk.ConversationManager.0                                /addMessageListener: com.trassion.infinix.xclub.utils.o1.b$d@779f5af
+TIM: 2020-04-09 19:58:57.452/I/3883-3883     /IMSDK     -TIMManager.0                                               /setUserConfig: userConfig=com.tencent.imsdk.TIMUserConfig@c231dbc
+TIM: 2020-04-09 19:58:57.571/I/3883-4067     /Network   -imsession_session_config.cpp.166  operator()               /response:119.28.109.19|costTime:147
+TIM: 2020-04-09 19:58:57.571/I/3883-4067     /Network   -imsession_sso_session.cpp.878  operator()                  /netType:1|netId:1:"TECH_CBA0"|ip count: 1|race:true|ssoListip_src:4
+TIM: 2020-04-09 19:58:57.571/I/3883-4067     /Network   -imsession_sso_session.cpp.883  operator()                  /Ip list|ip:119.28.109.19|port:8080|weight:0
+TIM: 2020-04-09 19:58:57.571/I/3883-4067     /Network   -imsession_sso_session.cpp.902  operator()                  /Connect begin, ip: 119.28.109.19, port: 8080
+TIM: 2020-04-09 19:58:57.571/I/3883-4067     /Network   -channel.cpp.330  SetError                                  /channel error|id=0|error=0, 
+TIM: 2020-04-09 19:58:57.578/D/3883-4067     /Network   -channel.cpp.109  OnChannelStatus                           /channel status|id:0|status:0|ip:119.28.109.19|port:8080
+TIM: 2020-04-09 19:58:57.579/I/3883-4067     /Network   -imsession_sso_session.cpp.81  operator()                   /connect channelId: 0, status: 0, ec: 0, 
+TIM: 2020-04-09 19:58:57.579/I/3883-4067     /Network   -imsession_sso_session.cpp.96  operator()                   /Connecting, ip: 119.28.109.19, port: 8080, channel id: 0
+TIM: 2020-04-09 19:58:57.599/D/3883-4067     /Network   -channel.cpp.112  OnChannelStatus                           /channel status|id:0|status:1|socket:84|error:0
+TIM: 2020-04-09 19:58:57.599/I/3883-4067     /Network   -imsession_sso_session.cpp.81  operator()                   /connect channelId: 0, status: 1, ec: 0, 
+TIM: 2020-04-09 19:58:57.599/I/3883-4067     /Network   -imsession_monitor.cpp.284  Record                          /record|content:date_time=1586437137&sdk_app_id=1400271387&conn_succ=1&conn_time=178&conn_last=0&sdk_client_ip=&sso_ip=119.28.109.19&sso_port=8080&conn_reason=0&send_count=0&send_succ_count=0&send_high_count=0&send_high_succ_count=0&avg_rtt=0&net_type=wifi&state=1&timestamp=2020-04-09T19:58:57.599+0800&sso_ip_src=4&sso_ip_list=119.28.109.19:8080&failed_ip_list=&error_code=0&reg_error_code=0&error_msg=
+TIM: 2020-04-09 19:58:57.599/I/3883-4067     /Network   -imsession_sso_session.cpp.128  operator()                  /Connected succeed, ip: 119.28.109.19, port: 8080, channel id: 0, failed ip list: 
+TIM: 2020-04-09 19:58:57.600/I/3883-4067     /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:1
+TIM: 2020-04-09 19:58:57.600/I/3883-4067     /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:1 code:0 errMsg:
+TIM: 2020-04-09 19:58:57.600/I/3883-4067     /IMSDK     -BaseManager.0                                              /onConnected
+TIM: 2020-04-09 19:58:57.601/I/3883-4067     /Network   -imsession_sso_session.cpp.939  SendRemain                  /send remain|size: 0
+TIM: 2020-04-09 19:58:57.601/I/3883-4067     /Network   -imsession_sso_session.cpp.961  SendRemain                  /send cache|size: 0
+TIM: 2020-04-09 19:58:57.601/I/3883-4067     /Network   -imsession_sso_session.cpp.1502  DisableCheckNetwork        /check network stop
+TIM: 2020-04-09 19:58:57.607/I/3883-4067     /Network   -imsession_sso_session.cpp.1467  EnableCheckNetwork         /check network start, current netId: 1:"TECH_CBA0"
+TIM: 2020-04-09 19:58:57.821/I/3883-4065     /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 19:58:57.948/I/3883-3883     /Common    -manager_jni.cpp.273  Java_com_tencent_imsdk_manager_NativeManager_nativeOnNetworkChanged/OnNetworkChanged is connected 1
+TIM: 2020-04-09 19:58:57.949/I/3883-4067     /Network   -imsession_sso_session.cpp.792  operator()                  /OnDeviceNetworkChange|state:1
+TIM: 2020-04-09 19:58:58.775/I/3883-4065     /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 19:58:59.416/I/3883-4065     /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 19:58:59.972/I/3883-4065     /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 19:59:11.877/I/3883-4067     /Network   -imsession_sso_session.cpp.1484  operator()                 /check network netId from: 1:"TECH_CBA0" to 0:Telkomsel, NetState: 1
+TIM: 2020-04-09 19:59:11.878/D/3883-4067     /Network   -looper_impl.cpp.794  Close                                 /channel close active|id:0
+TIM: 2020-04-09 19:59:11.878/I/3883-4067     /Network   -channel.cpp.291  Close                                     /channel closing
+TIM: 2020-04-09 19:59:11.881/D/3883-4067     /Network   -channel.cpp.112  OnChannelStatus                           /channel status|id:0|status:2|socket:84|error:0
+TIM: 2020-04-09 19:59:11.881/I/3883-4067     /Network   -imsession_sso_session.cpp.81  operator()                   /connect channelId: 0, status: 2, ec: 0, 
+TIM: 2020-04-09 19:59:11.881/I/3883-4067     /Network   -imsession_sso_session.cpp.224  operator()                  /Disconnected(Close), ip: 119.28.109.19, port: 8080, channel id: 0
+TIM: 2020-04-09 19:59:11.887/I/3883-4067     /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:2
+TIM: 2020-04-09 19:59:11.888/I/3883-4067     /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:3 code:0 errMsg:
+TIM: 2020-04-09 19:59:11.888/I/3883-4067     /IMSDK     -BaseManager.0                                              /onDisconnected, code: 0|descr: 
+TIM: 2020-04-09 19:59:11.889/I/3883-4067     /Network   -imsession_monitor.cpp.284  Record                          /record|content:date_time=1586437151&sdk_app_id=1400271387&conn_succ=1&conn_time=178&conn_last=14290&sdk_client_ip=&sso_ip=119.28.109.19&sso_port=8080&conn_reason=4&send_count=0&send_succ_count=0&send_high_count=0&send_high_succ_count=0&avg_rtt=0&net_type=wifi&state=1&timestamp=2020-04-09T19:59:11.889+0800&sso_ip_src=4&sso_ip_list=119.28.109.19:8080&failed_ip_list=&error_code=0&reg_error_code=0&error_msg=
+TIM: 2020-04-09 19:59:11.931/I/3883-4067     /Network   -imsession_sso_session.cpp.934  MakesureConnect             /wait_connect_task_id_:4|interval: 0|netId:0:Telkomsel
+TIM: 2020-04-09 19:59:11.931/I/3883-4067     /Network   -channel.cpp.170  OnChannelRecycle                          /channel recycle|id:0|count:0
+TIM: 2020-04-09 19:59:12.004/I/3883-4067     /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:0
+TIM: 2020-04-09 19:59:12.010/I/3883-4067     /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:2 code:0 errMsg:
+TIM: 2020-04-09 19:59:12.013/I/3883-4067     /IMSDK     -BaseManager.0                                              /onConnecting
+TIM: 2020-04-09 19:59:12.013/I/3883-4067     /Network   -imsession_sso_session.cpp.1502  DisableCheckNetwork        /check network stop
+TIM: 2020-04-09 19:59:12.013/I/3883-4067     /Network   -imsession_session_config.cpp.123  GetSsoList               /netId:0:Telkomsel
+TIM: 2020-04-09 19:59:17.113/I/3883-4067     /Network   -imsession_session_config.cpp.166  operator()               /response:java.net.SocketTimeoutException: failed to connect to /182.254.116.116 (port 80) from /192.168.0.27 (port 45026) after 5000ms
+	at libcore.io.IoBridge.connectErrno(IoBridge.java:185)
+	at libcore.io.IoBridge.connect(IoBridge.java:129)
+	at java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:137)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:390)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:230)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:212)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:436)
+	at java.net.Socket.connect(Socket.java:631)
+	at com.android.okhttp.internal.Platform.connectSocket(Platform.java:145)
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:141)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:112)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:184)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:126)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:95)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:299)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:237)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:472)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:418)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:549)
+	at com.tencent.imsdk.looper.HttpClient$3.run(HttpClient.java:32)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:764)
+|costTime:5100
+TIM: 2020-04-09 19:59:17.151/I/3883-4067     /Network   -imsession_session_config.cpp.203  GetSsoListFromDNS        /nslookup begin
+TIM: 2020-04-09 19:59:17.204/I/3883-4067     /Network   -imsession_session_config.cpp.208  GetSsoListFromDNS        /nslookup end, ipcount: 1
+TIM: 2020-04-09 19:59:17.209/I/3883-4067     /Network   -imsession_session_config.cpp.217  GetSsoListFromDNS        /DNS ip: 119.28.109.19, port: 8080
+TIM: 2020-04-09 19:59:17.209/I/3883-4067     /Network   -imsession_sso_session.cpp.878  operator()                  /netType:0|netId:0:Telkomsel|ip count: 1|race:true|ssoListip_src:1
+TIM: 2020-04-09 19:59:17.209/I/3883-4067     /Network   -imsession_sso_session.cpp.883  operator()                  /Ip list|ip:119.28.109.19|port:8080|weight:0
+TIM: 2020-04-09 19:59:17.209/I/3883-4067     /Network   -imsession_sso_session.cpp.902  operator()                  /Connect begin, ip: 119.28.109.19, port: 8080
+TIM: 2020-04-09 19:59:17.209/I/3883-4067     /Network   -channel.cpp.330  SetError                                  /channel error|id=1|error=0, 
+TIM: 2020-04-09 19:59:17.216/D/3883-4067     /Network   -channel.cpp.109  OnChannelStatus                           /channel status|id:1|status:0|ip:119.28.109.19|port:8080
+TIM: 2020-04-09 19:59:17.216/I/3883-4067     /Network   -imsession_sso_session.cpp.81  operator()                   /connect channelId: 1, status: 0, ec: 0, 
+TIM: 2020-04-09 19:59:17.216/I/3883-4067     /Network   -imsession_sso_session.cpp.96  operator()                   /Connecting, ip: 119.28.109.19, port: 8080, channel id: 1
+TIM: 2020-04-09 20:33:07.402/I/20830-20942   /Common    -log_util.cpp.534  operator()                               /get log file:imsdk_20200409.log
+TIM: 2020-04-09 20:33:07.367/I/20830-20830   /IMSDK     -BaseManager.0                                              /BuglySdkInfos sdkappid:ebfa608d4d ver:4.5.111
+TIM: 2020-04-09 20:33:07.367/D/20830-20942   /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_log
+TIM: 2020-04-09 20:33:07.370/I/20830-20830   /IMSDK     -BaseManager.0                                              /logPath: /storage/emulated/0/justfortest/
+TIM: 2020-04-09 20:33:07.372/I/20830-20830   /IMSDK     -BaseManager.0                                              /logPath: /storage/emulated/0/justfortest/
+TIM: 2020-04-09 20:33:07.374/I/20830-20830   /IMSDK     -BaseManager.0                                              /init: sdkAppid=1400271387;appid=0;logPath=/storage/emulated/0/justfortest/;callbackLevel=4;logLevel=3;logPrintEnabled=true
+TIM: 2020-04-09 20:33:07.381/I/20830-20830   /IMSDK     -SessionWrapper.0                                           /bind service=============1586439187381
+TIM: 2020-04-09 20:33:07.388/I/20830-20944   /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 20:33:07.401/I/20830-20830   /Common    -manager_jni.cpp.310  Java_com_tencent_imsdk_manager_NativeManager_nativeInitSdk/InitSDK, sdkappid 1400271387, logPath /storage/emulated/0/justfortest/, configPath /data/user/0/com.trassion.infinix.xclub/files, deviceId a41b5284-1305-4bc0-83ca-858430c681f9, sdkInsttype_ 2002
+TIM: ==========================================================================
+TIM: ======  TIM
+TIM: ======  Ver: 4.5.111
+TIM: ======  Compile: Oct 16 2019 20:37:06
+TIM: ======  Platform: Android
+TIM: ======  PID: 20830
+TIM: ==========================================================================
+TIM: 2020-04-09 20:33:07.406/D/20830-20948   /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_logic
+TIM: 2020-04-09 20:33:07.408/D/20830-20950   /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_db
+TIM: 2020-04-09 20:33:07.408/I/20830-20948   /Network   -imsession_session_config.cpp.486  operator()               /read config file /data/user/0/com.trassion.infinix.xclub/files/imsdk_config
+TIM: 2020-04-09 20:33:07.408/W/20830-20948   /Network   -imsession_session_config.cpp.488  operator()               /cannot create config read stream
+TIM: 2020-04-09 20:33:07.408/I/20830-20830   /Network   -imsession_sso_session.cpp.410  Init                        /session init, sdkAppId: 1400271387, system version: 9, app version: 4.5.111
+TIM: 2020-04-09 20:33:07.409/I/20830-20830   /Common    -imcore_manager.cpp.147  InitSdk                            /InitSdk, device type: Infinix X5515F, system version: 9, app version = 4.5.111
+TIM: 2020-04-09 20:33:07.413/I/20830-20948   /Network   -imsession_sso_session.cpp.934  MakesureConnect             /wait_connect_task_id_:0|interval: 0|netId:1:<unknown ssid>
+TIM: 2020-04-09 20:33:07.417/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.418/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.420/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.421/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.421/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.422/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.422/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.425/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.427/I/20830-20948   /Network   -imsession_monitor.cpp.136  OnConnecting                    /previous record|content:date_time=1586437151&sdk_app_id=1400271387&conn_succ=1&conn_time=178&conn_last=14290&sdk_client_ip=&sso_ip=119.28.109.19&sso_port=8080&conn_reason=4&send_count=0&send_succ_count=0&send_high_count=0&send_high_succ_count=0&avg_rtt=0&net_type=wifi&state=1&timestamp=2020-04-09T19:59:11.889+0800&sso_ip_src=4&sso_ip_list=119.28.109.19:8080&failed_ip_list=&error_code=0&reg_error_code=0&error_msg=
+TIM: 2020-04-09 20:33:07.427/I/20830-20948   /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:0
+TIM: 2020-04-09 20:33:07.428/I/20830-20948   /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:2 code:0 errMsg:
+TIM: 2020-04-09 20:33:07.428/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.429/I/20830-20948   /IMSDK     -BaseManager.0                                              /onConnecting
+TIM: 2020-04-09 20:33:07.429/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.429/I/20830-20948   /Network   -imsession_sso_session.cpp.1502  DisableCheckNetwork        /check network stop
+TIM: 2020-04-09 20:33:07.429/I/20830-20948   /Network   -imsession_session_config.cpp.123  GetSsoList               /netId:1:<unknown ssid>
+TIM: 2020-04-09 20:33:07.431/I/20830-20830   /IMSDK     -BaseManager.0                                              /loadFriendshipModule init statt
+TIM: 2020-04-09 20:33:07.432/I/20830-20830   /FriendShip-friendship_listener_jni.cpp.185  InitIDs                   /---- Start FriendshipListenerJni InitIDs
+TIM: 2020-04-09 20:33:07.432/I/20830-20830   /FriendShip-friendship_listener_jni.cpp.212  InitIDs                   /---- End FriendshipListenerJni InitIDs
+TIM: 2020-04-09 20:33:07.432/I/20830-20830   /FriendShip-friendship_jni.cpp.22  Java_com_tencent_imsdk_friendship_FriendshipNativeManager_nativeInitFriendshipModule/start init native Friendship Module
+TIM: 2020-04-09 20:33:07.433/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.434/I/20830-20830   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 20:33:07.435/I/20830-20830   /FriendShip-friendship_jni.cpp.34  Java_com_tencent_imsdk_friendship_FriendshipNativeManager_nativeInitFriendshipModule/end init native Friendship Module
+TIM: 2020-04-09 20:33:07.436/I/20830-20830   /IMSDK     -imsdk.ConversationManager.0                                /addMessageListener: com.trassion.infinix.xclub.utils.o1.b$d@567e31d
+TIM: 2020-04-09 20:33:07.436/I/20830-20830   /IMSDK     -TIMManager.0                                               /setUserConfig: userConfig=com.tencent.imsdk.TIMUserConfig@9dcb992
+TIM: 2020-04-09 20:33:07.516/I/20830-20830   /Common    -manager_jni.cpp.273  Java_com_tencent_imsdk_manager_NativeManager_nativeOnNetworkChanged/OnNetworkChanged is connected 1
+TIM: 2020-04-09 20:33:07.516/I/20830-20948   /Network   -imsession_sso_session.cpp.792  operator()                  /OnDeviceNetworkChange|state:1
+TIM: 2020-04-09 20:33:07.517/I/20830-20948   /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:2 code:0 errMsg:
+TIM: 2020-04-09 20:33:07.517/I/20830-20948   /IMSDK     -BaseManager.0                                              /onConnecting
+TIM: 2020-04-09 20:33:07.558/I/20830-20948   /Network   -imsession_session_config.cpp.166  operator()               /response:119.28.109.19|costTime:129
+TIM: 2020-04-09 20:33:07.558/I/20830-20948   /Network   -imsession_sso_session.cpp.878  operator()                  /netType:1|netId:1:<unknown ssid>|ip count: 1|race:true|ssoListip_src:4
+TIM: 2020-04-09 20:33:07.558/I/20830-20948   /Network   -imsession_sso_session.cpp.883  operator()                  /Ip list|ip:119.28.109.19|port:8080|weight:0
+TIM: 2020-04-09 20:33:07.558/I/20830-20948   /Network   -imsession_sso_session.cpp.902  operator()                  /Connect begin, ip: 119.28.109.19, port: 8080
+TIM: 2020-04-09 20:33:07.558/I/20830-20948   /Network   -channel.cpp.330  SetError                                  /channel error|id=0|error=0, 
+TIM: 2020-04-09 20:33:07.561/D/20830-20948   /Network   -channel.cpp.109  OnChannelStatus                           /channel status|id:0|status:0|ip:119.28.109.19|port:8080
+TIM: 2020-04-09 20:33:07.561/I/20830-20948   /Network   -imsession_sso_session.cpp.81  operator()                   /connect channelId: 0, status: 0, ec: 0, 
+TIM: 2020-04-09 20:33:07.561/I/20830-20948   /Network   -imsession_sso_session.cpp.96  operator()                   /Connecting, ip: 119.28.109.19, port: 8080, channel id: 0
+TIM: 2020-04-09 20:33:07.591/D/20830-20948   /Network   -channel.cpp.112  OnChannelStatus                           /channel status|id:0|status:1|socket:107|error:0
+TIM: 2020-04-09 20:33:07.591/I/20830-20948   /Network   -imsession_sso_session.cpp.81  operator()                   /connect channelId: 0, status: 1, ec: 0, 
+TIM: 2020-04-09 20:33:07.591/I/20830-20948   /Network   -imsession_monitor.cpp.284  Record                          /record|content:date_time=1586439187&sdk_app_id=1400271387&conn_succ=1&conn_time=167&conn_last=0&sdk_client_ip=&sso_ip=119.28.109.19&sso_port=8080&conn_reason=0&send_count=0&send_succ_count=0&send_high_count=0&send_high_succ_count=0&avg_rtt=0&net_type=wifi&state=1&timestamp=2020-04-09T20:33:07.591+0800&sso_ip_src=4&sso_ip_list=119.28.109.19:8080&failed_ip_list=&error_code=0&reg_error_code=0&error_msg=
+TIM: 2020-04-09 20:33:07.592/I/20830-20948   /Network   -imsession_sso_session.cpp.128  operator()                  /Connected succeed, ip: 119.28.109.19, port: 8080, channel id: 0, failed ip list: 
+TIM: 2020-04-09 20:33:07.592/I/20830-20948   /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:1
+TIM: 2020-04-09 20:33:07.592/I/20830-20948   /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:1 code:0 errMsg:
+TIM: 2020-04-09 20:33:07.592/I/20830-20948   /IMSDK     -BaseManager.0                                              /onConnected
+TIM: 2020-04-09 20:33:07.594/I/20830-20948   /Network   -imsession_sso_session.cpp.939  SendRemain                  /send remain|size: 0
+TIM: 2020-04-09 20:33:07.594/I/20830-20948   /Network   -imsession_sso_session.cpp.961  SendRemain                  /send cache|size: 0
+TIM: 2020-04-09 20:33:07.594/I/20830-20948   /Network   -imsession_sso_session.cpp.1502  DisableCheckNetwork        /check network stop
+TIM: 2020-04-09 20:33:07.600/I/20830-20948   /Network   -imsession_sso_session.cpp.1467  EnableCheckNetwork         /check network start, current netId: 1:<unknown ssid>
+TIM: 2020-04-09 20:33:07.894/I/20830-20944   /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 20:33:08.435/I/20830-20944   /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 20:33:08.975/I/20830-20944   /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 21:39:07.348/I/13913-14032   /Common    -log_util.cpp.534  operator()                               /get log file:imsdk_20200409.log
+TIM: 2020-04-09 21:39:07.324/D/13913-14032   /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_log
+TIM: 2020-04-09 21:39:07.324/I/13913-13913   /IMSDK     -BaseManager.0                                              /BuglySdkInfos sdkappid:ebfa608d4d ver:4.5.111
+TIM: 2020-04-09 21:39:07.326/I/13913-13913   /IMSDK     -BaseManager.0                                              /logPath: /storage/emulated/0/justfortest/
+TIM: 2020-04-09 21:39:07.328/I/13913-13913   /IMSDK     -BaseManager.0                                              /logPath: /storage/emulated/0/justfortest/
+TIM: 2020-04-09 21:39:07.329/I/13913-13913   /IMSDK     -BaseManager.0                                              /init: sdkAppid=1400271387;appid=0;logPath=/storage/emulated/0/justfortest/;callbackLevel=4;logLevel=3;logPrintEnabled=true
+TIM: 2020-04-09 21:39:07.336/I/13913-13913   /IMSDK     -SessionWrapper.0                                           /bind service=============1586443147336
+TIM: 2020-04-09 21:39:07.342/I/13913-14035   /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 21:39:07.347/I/13913-13913   /Common    -manager_jni.cpp.310  Java_com_tencent_imsdk_manager_NativeManager_nativeInitSdk/InitSDK, sdkappid 1400271387, logPath /storage/emulated/0/justfortest/, configPath /data/user/0/com.trassion.infinix.xclub/files, deviceId a41b5284-1305-4bc0-83ca-858430c681f9, sdkInsttype_ 2002
+TIM: ==========================================================================
+TIM: ======  TIM
+TIM: ======  Ver: 4.5.111
+TIM: ======  Compile: Oct 16 2019 20:37:06
+TIM: ======  Platform: Android
+TIM: ======  PID: 13913
+TIM: ==========================================================================
+TIM: 2020-04-09 21:39:07.348/D/13913-14037   /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_logic
+TIM: 2020-04-09 21:39:07.349/D/13913-14038   /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_db
+TIM: 2020-04-09 21:39:07.351/I/13913-13913   /Network   -imsession_sso_session.cpp.410  Init                        /session init, sdkAppId: 1400271387, system version: 9, app version: 4.5.111
+TIM: 2020-04-09 21:39:07.351/I/13913-13913   /Common    -imcore_manager.cpp.147  InitSdk                            /InitSdk, device type: Infinix X5515F, system version: 9, app version = 4.5.111
+TIM: 2020-04-09 21:39:07.351/I/13913-14037   /Network   -imsession_session_config.cpp.486  operator()               /read config file /data/user/0/com.trassion.infinix.xclub/files/imsdk_config
+TIM: 2020-04-09 21:39:07.351/W/13913-14037   /Network   -imsession_session_config.cpp.488  operator()               /cannot create config read stream
+TIM: 2020-04-09 21:39:07.353/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.354/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.354/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.354/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.355/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.355/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.356/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.356/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.358/I/13913-14037   /Network   -imsession_sso_session.cpp.934  MakesureConnect             /wait_connect_task_id_:0|interval: 0|netId:1:"TECH_CBA0"
+TIM: 2020-04-09 21:39:07.358/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.358/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.360/I/13913-13913   /IMSDK     -BaseManager.0                                              /loadFriendshipModule init statt
+TIM: 2020-04-09 21:39:07.361/I/13913-13913   /FriendShip-friendship_listener_jni.cpp.185  InitIDs                   /---- Start FriendshipListenerJni InitIDs
+TIM: 2020-04-09 21:39:07.361/I/13913-13913   /FriendShip-friendship_listener_jni.cpp.212  InitIDs                   /---- End FriendshipListenerJni InitIDs
+TIM: 2020-04-09 21:39:07.362/I/13913-13913   /FriendShip-friendship_jni.cpp.22  Java_com_tencent_imsdk_friendship_FriendshipNativeManager_nativeInitFriendshipModule/start init native Friendship Module
+TIM: 2020-04-09 21:39:07.363/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.364/I/13913-13913   /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 21:39:07.365/I/13913-13913   /FriendShip-friendship_jni.cpp.34  Java_com_tencent_imsdk_friendship_FriendshipNativeManager_nativeInitFriendshipModule/end init native Friendship Module
+TIM: 2020-04-09 21:39:07.366/I/13913-13913   /IMSDK     -imsdk.ConversationManager.0                                /addMessageListener: com.trassion.infinix.xclub.utils.o1.b$d@ab0c2e
+TIM: 2020-04-09 21:39:07.367/I/13913-13913   /IMSDK     -TIMManager.0                                               /setUserConfig: userConfig=com.tencent.imsdk.TIMUserConfig@1e63cf
+TIM: 2020-04-09 21:39:07.369/I/13913-14037   /Network   -imsession_monitor.cpp.136  OnConnecting                    /previous record|content:date_time=1586439187&sdk_app_id=1400271387&conn_succ=1&conn_time=167&conn_last=0&sdk_client_ip=&sso_ip=119.28.109.19&sso_port=8080&conn_reason=0&send_count=0&send_succ_count=0&send_high_count=0&send_high_succ_count=0&avg_rtt=0&net_type=wifi&state=1&timestamp=2020-04-09T20:33:07.591+0800&sso_ip_src=4&sso_ip_list=119.28.109.19:8080&failed_ip_list=&error_code=0&reg_error_code=0&error_msg=
+TIM: 2020-04-09 21:39:07.370/I/13913-14037   /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:0
+TIM: 2020-04-09 21:39:07.370/I/13913-14037   /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:2 code:0 errMsg:
+TIM: 2020-04-09 21:39:07.370/I/13913-14037   /IMSDK     -BaseManager.0                                              /onConnecting
+TIM: 2020-04-09 21:39:07.370/I/13913-14037   /Network   -imsession_sso_session.cpp.1502  DisableCheckNetwork        /check network stop
+TIM: 2020-04-09 21:39:07.370/I/13913-14037   /Network   -imsession_session_config.cpp.123  GetSsoList               /netId:1:"TECH_CBA0"
+TIM: 2020-04-09 21:39:07.438/I/13913-13913   /Common    -manager_jni.cpp.273  Java_com_tencent_imsdk_manager_NativeManager_nativeOnNetworkChanged/OnNetworkChanged is connected 1
+TIM: 2020-04-09 21:39:07.438/I/13913-14037   /Network   -imsession_sso_session.cpp.792  operator()                  /OnDeviceNetworkChange|state:1
+TIM: 2020-04-09 21:39:07.438/I/13913-14037   /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:2 code:0 errMsg:
+TIM: 2020-04-09 21:39:07.439/I/13913-14037   /IMSDK     -BaseManager.0                                              /onConnecting
+TIM: 2020-04-09 22:33:23.810/I/7048-7206     /Common    -log_util.cpp.534  operator()                               /get log file:imsdk_20200409.log
+TIM: 2020-04-09 22:33:23.744/I/7048-7048     /IMSDK     -BaseManager.0                                              /BuglySdkInfos sdkappid:ebfa608d4d ver:4.5.111
+TIM: 2020-04-09 22:33:23.747/I/7048-7048     /IMSDK     -BaseManager.0                                              /logPath: /storage/emulated/0/justfortest/
+TIM: 2020-04-09 22:33:23.747/I/7048-7048     /IMSDK     -BaseManager.0                                              /logPath: /storage/emulated/0/justfortest/
+TIM: 2020-04-09 22:33:23.748/I/7048-7048     /IMSDK     -BaseManager.0                                              /init: sdkAppid=1400271387;appid=0;logPath=/storage/emulated/0/justfortest/;callbackLevel=4;logLevel=3;logPrintEnabled=true
+TIM: 2020-04-09 22:33:23.753/I/7048-7048     /IMSDK     -SessionWrapper.0                                           /bind service=============1586446403753
+TIM: 2020-04-09 22:33:23.754/I/7048-7207     /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
+TIM: 2020-04-09 22:33:23.754/D/7048-7206     /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_log
+TIM: 2020-04-09 22:33:23.808/I/7048-7048     /Common    -manager_jni.cpp.310  Java_com_tencent_imsdk_manager_NativeManager_nativeInitSdk/InitSDK, sdkappid 1400271387, logPath /storage/emulated/0/justfortest/, configPath /data/user/0/com.trassion.infinix.xclub/files, deviceId a41b5284-1305-4bc0-83ca-858430c681f9, sdkInsttype_ 2002
+TIM: ==========================================================================
+TIM: ======  TIM
+TIM: ======  Ver: 4.5.111
+TIM: ======  Compile: Oct 16 2019 20:37:06
+TIM: ======  Platform: Android
+TIM: ======  PID: 7048
+TIM: ==========================================================================
+TIM: 2020-04-09 22:33:23.810/D/7048-7209     /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_logic
+TIM: 2020-04-09 22:33:23.815/D/7048-7210     /Network   -looper_impl.cpp.195  operator()                            /looper start work|name:looper_db
+TIM: 2020-04-09 22:33:23.815/I/7048-7048     /Network   -imsession_sso_session.cpp.410  Init                        /session init, sdkAppId: 1400271387, system version: 9, app version: 4.5.111
+TIM: 2020-04-09 22:33:23.815/I/7048-7048     /Common    -imcore_manager.cpp.147  InitSdk                            /InitSdk, device type: Infinix X5515F, system version: 9, app version = 4.5.111
+TIM: 2020-04-09 22:33:23.820/I/7048-7209     /Network   -imsession_session_config.cpp.486  operator()               /read config file /data/user/0/com.trassion.infinix.xclub/files/imsdk_config
+TIM: 2020-04-09 22:33:23.820/W/7048-7209     /Network   -imsession_session_config.cpp.488  operator()               /cannot create config read stream
+TIM: 2020-04-09 22:33:23.827/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.827/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.828/I/7048-7209     /Network   -imsession_sso_session.cpp.934  MakesureConnect             /wait_connect_task_id_:0|interval: 0|netId:1:"TECH_CBA0"
+TIM: 2020-04-09 22:33:23.829/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.829/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.829/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.830/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.830/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.839/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.841/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.841/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.844/I/7048-7048     /IMSDK     -BaseManager.0                                              /loadFriendshipModule init statt
+TIM: 2020-04-09 22:33:23.846/I/7048-7048     /FriendShip-friendship_listener_jni.cpp.185  InitIDs                   /---- Start FriendshipListenerJni InitIDs
+TIM: 2020-04-09 22:33:23.846/I/7048-7048     /FriendShip-friendship_listener_jni.cpp.212  InitIDs                   /---- End FriendshipListenerJni InitIDs
+TIM: 2020-04-09 22:33:23.846/I/7048-7048     /FriendShip-friendship_jni.cpp.22  Java_com_tencent_imsdk_friendship_FriendshipNativeManager_nativeInitFriendshipModule/start init native Friendship Module
+TIM: 2020-04-09 22:33:23.847/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.848/I/7048-7209     /Network   -imsession_monitor.cpp.136  OnConnecting                    /previous record|content:date_time=1586439187&sdk_app_id=1400271387&conn_succ=1&conn_time=167&conn_last=0&sdk_client_ip=&sso_ip=119.28.109.19&sso_port=8080&conn_reason=0&send_count=0&send_succ_count=0&send_high_count=0&send_high_succ_count=0&avg_rtt=0&net_type=wifi&state=1&timestamp=2020-04-09T20:33:07.591+0800&sso_ip_src=4&sso_ip_list=119.28.109.19:8080&failed_ip_list=&error_code=0&reg_error_code=0&error_msg=
+TIM: 2020-04-09 22:33:23.848/I/7048-7209     /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:0
+TIM: 2020-04-09 22:33:23.848/I/7048-7209     /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:2 code:0 errMsg:
+TIM: 2020-04-09 22:33:23.851/I/7048-7209     /IMSDK     -BaseManager.0                                              /onConnecting
+TIM: 2020-04-09 22:33:23.851/I/7048-7209     /Network   -imsession_sso_session.cpp.1502  DisableCheckNetwork        /check network stop
+TIM: 2020-04-09 22:33:23.851/I/7048-7209     /Network   -imsession_session_config.cpp.123  GetSsoList               /netId:1:"TECH_CBA0"
+TIM: 2020-04-09 22:33:23.859/I/7048-7048     /Msg       -elem_processor.cpp.28  RegisterElemHandler                 /Register Elem Handler
+TIM: 2020-04-09 22:33:23.861/I/7048-7048     /FriendShip-friendship_jni.cpp.34  Java_com_tencent_imsdk_friendship_FriendshipNativeManager_nativeInitFriendshipModule/end init native Friendship Module
+TIM: 2020-04-09 22:33:23.870/I/7048-7048     /IMSDK     -imsdk.ConversationManager.0                                /addMessageListener: com.trassion.infinix.xclub.utils.o1.b$d@6adb230
+TIM: 2020-04-09 22:33:23.870/I/7048-7048     /IMSDK     -TIMManager.0                                               /setUserConfig: userConfig=com.tencent.imsdk.TIMUserConfig@55faea9
+TIM: 2020-04-09 22:33:23.999/I/7048-7209     /Network   -imsession_session_config.cpp.166  operator()               /response:119.28.109.19|costTime:148
+TIM: 2020-04-09 22:33:23.999/I/7048-7209     /Network   -imsession_sso_session.cpp.878  operator()                  /netType:1|netId:1:"TECH_CBA0"|ip count: 1|race:true|ssoListip_src:4
+TIM: 2020-04-09 22:33:23.999/I/7048-7209     /Network   -imsession_sso_session.cpp.883  operator()                  /Ip list|ip:119.28.109.19|port:8080|weight:0
+TIM: 2020-04-09 22:33:23.999/I/7048-7209     /Network   -imsession_sso_session.cpp.902  operator()                  /Connect begin, ip: 119.28.109.19, port: 8080
+TIM: 2020-04-09 22:33:23.999/I/7048-7209     /Network   -channel.cpp.330  SetError                                  /channel error|id=0|error=0, 
+TIM: 2020-04-09 22:33:24.002/D/7048-7209     /Network   -channel.cpp.109  OnChannelStatus                           /channel status|id:0|status:0|ip:119.28.109.19|port:8080
+TIM: 2020-04-09 22:33:24.002/I/7048-7209     /Network   -imsession_sso_session.cpp.81  operator()                   /connect channelId: 0, status: 0, ec: 0, 
+TIM: 2020-04-09 22:33:24.002/I/7048-7209     /Network   -imsession_sso_session.cpp.96  operator()                   /Connecting, ip: 119.28.109.19, port: 8080, channel id: 0
+TIM: 2020-04-09 22:33:24.029/D/7048-7209     /Network   -channel.cpp.112  OnChannelStatus                           /channel status|id:0|status:1|socket:91|error:0
+TIM: 2020-04-09 22:33:24.029/I/7048-7209     /Network   -imsession_sso_session.cpp.81  operator()                   /connect channelId: 0, status: 1, ec: 0, 
+TIM: 2020-04-09 22:33:24.029/I/7048-7209     /Network   -imsession_monitor.cpp.284  Record                          /record|content:date_time=1586446404&sdk_app_id=1400271387&conn_succ=1&conn_time=186&conn_last=0&sdk_client_ip=&sso_ip=119.28.109.19&sso_port=8080&conn_reason=0&send_count=0&send_succ_count=0&send_high_count=0&send_high_succ_count=0&avg_rtt=0&net_type=wifi&state=1&timestamp=2020-04-09T22:33:24.029+0800&sso_ip_src=4&sso_ip_list=119.28.109.19:8080&failed_ip_list=&error_code=0&reg_error_code=0&error_msg=
+TIM: 2020-04-09 22:33:24.029/I/7048-7209     /Network   -imsession_sso_session.cpp.128  operator()                  /Connected succeed, ip: 119.28.109.19, port: 8080, channel id: 0, failed ip list: 
+TIM: 2020-04-09 22:33:24.029/I/7048-7209     /Network   -imsession_sso_session.cpp.971  NotifyNetState              /notify network change|status:1
+TIM: 2020-04-09 22:33:24.030/I/7048-7209     /IMSDK     -NativeManager.0                                            /onNetworkStatusChanged Enter; type:1 code:0 errMsg:
+TIM: 2020-04-09 22:33:24.030/I/7048-7209     /IMSDK     -BaseManager.0                                              /onConnected
+TIM: 2020-04-09 22:33:24.031/I/7048-7209     /Network   -imsession_sso_session.cpp.939  SendRemain                  /send remain|size: 0
+TIM: 2020-04-09 22:33:24.031/I/7048-7209     /Network   -imsession_sso_session.cpp.961  SendRemain                  /send cache|size: 0
+TIM: 2020-04-09 22:33:24.031/I/7048-7209     /Network   -imsession_sso_session.cpp.1502  DisableCheckNetwork        /check network stop
+TIM: 2020-04-09 22:33:24.039/I/7048-7209     /Network   -imsession_sso_session.cpp.1467  EnableCheckNetwork         /check network start, current netId: 1:"TECH_CBA0"
+TIM: 2020-04-09 22:33:24.151/I/7048-7048     /Common    -manager_jni.cpp.273  Java_com_tencent_imsdk_manager_NativeManager_nativeOnNetworkChanged/OnNetworkChanged is connected 1
+TIM: 2020-04-09 22:33:24.151/I/7048-7209     /Network   -imsession_sso_session.cpp.792  operator()                  /OnDeviceNetworkChange|state:1
+TIM: 2020-04-09 22:33:24.326/I/7048-7207     /IMSDK     -SessionWrapper.0                                           /try to bind service, main: com.trassion.infinix.xclub
